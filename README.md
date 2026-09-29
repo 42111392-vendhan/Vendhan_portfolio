@@ -4,7 +4,7 @@ My personal portfolio showcasing my skills, projects, and learning journey in Py
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://42111392-vendhan.github.io/portfolio/)
+[Visit My Portfolio]((https://42111392-vendhan.github.io/Vendhan_portfolio/))
 
 ## 👨‍💻 About Me
 
